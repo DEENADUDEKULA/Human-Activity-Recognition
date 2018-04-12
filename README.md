@@ -679,23 +679,8 @@ In [another open-source repository of mine](https://github.com/guillaume-chevali
 If you want to learn more about deep learning, I have also built a list of the learning ressources for deep learning which have revealed to be the most useful to me [here](https://github.com/guillaume-chevalier/awesome-deep-learning-resources). You could as well learn to [learn to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf) (not for the faint of heart). Ok, I pushed the joke deep enough... 
 
 
-## References
 
-The [dataset](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) can be found on the UCI Machine Learning Repository. 
 
-> Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
-
-To cite my work, point to the URL of the GitHub repository: 
-> Guillaume Chevalier, LSTMs for Human Activity Recognition, 2016
-> https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition
-
-My code is available under the [MIT License](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/blob/master/LICENSE). 
-
-## Connect with me
-
-- https://ca.linkedin.com/in/chevalierg 
-- https://twitter.com/guillaume_che
-- https://github.com/guillaume-chevalier/
 
 
 
